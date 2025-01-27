@@ -1,0 +1,29 @@
+[
+  {
+    "blog_id": "b01",
+    "title": "Whats in my travel bag",
+    "slug": "whats-in-bag",
+    "author": "Karan Nagpal",
+    "date_published": "2024-12-15 14:38",
+    "cover_image": "",
+    "blog_content": ""
+  },
+  {
+    "blog_id": "b02",
+    "title": "Easy one pot recipes",
+    "slug": "easy-one-pot",
+    "author": "Karan Nagpal",
+    "date_published": "2024-12-31 15:54",
+    "cover_image": "",
+    "blog_content": ""
+  },
+  {
+    "blog_id": "b03",
+    "title": "Taking better photos with your phone",
+    "slug": "taking-better-photos",
+    "author": "Karan Nagpal",
+    "date_published": "2025-01-15 12:31",
+    "cover_image": "",
+    "blog_content": ""
+  }
+]

@@ -1,7 +1,9 @@
 import Header from "@/components/Header";
 import BlogOverview from "@/components/BlogOverview";
+import { getAllBlogposts } from "@/controllers/blogpostController";
 
 export default function Home() {
+  const allBlogposts = getAllBlogposts();
   return (
     <>
       <small>this is the landing page</small>
@@ -12,21 +14,16 @@ export default function Home() {
         <section>
           <div className="text-sm"> a grid of most recent blogs come here</div>
           <div className="flex gap-2">
-            <BlogOverview
-              title="Whats in my travel bag"
-              author="Karan Nagpal"
-              cover_image={"/img.png"}
-            />
-            <BlogOverview
-              title="Easy one pot recipe"
-              author="Karan Nagpal"
-              cover_image={"/img.png"}
-            />
-            <BlogOverview
-              title="taking better photos with your phone"
-              author="Karan Nagpal"
-              cover_image={"/img.png"}
-            />
+            {allBlogposts.map((blogpost) => {
+              return (
+                <BlogOverview
+                  key={blogpost.blog_id}
+                  title={blogpost.title}
+                  author={blogpost.author}
+                  cover_image={blogpost.cover_image}
+                />
+              );
+            })}
           </div>
         </section>
         <section>about the author/publication company</section>

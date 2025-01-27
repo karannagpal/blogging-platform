@@ -1,0 +1,26 @@
+[
+  {
+    "id": "00",
+    "username": "admin",
+    "full_name": "admin",
+    "user_type": "admin"
+  },
+  {
+    "id": "01",
+    "username": "karannagpal96",
+    "full_name": "Karan Nagpal",
+    "user_type": "author"
+  },
+  {
+    "id": "02",
+    "username": "veronica123",
+    "full_name": "Veronica",
+    "user_type": "reader"
+  },
+  {
+    "id": "03",
+    "username": "brucewayne123",
+    "full_name": "Bruce Wayne",
+    "user_type": "reader"
+  }
+]
