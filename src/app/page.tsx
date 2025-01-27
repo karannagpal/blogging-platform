@@ -1,6 +1,5 @@
-import BlogOverview from "@/components/BlogOverview";
-import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import BlogOverview from "@/components/BlogOverview";
 
 export default function Home() {
   return (
@@ -32,7 +31,6 @@ export default function Home() {
         </section>
         <section>about the author/publication company</section>
       </main>
-      <Footer />
     </>
   );
 }
