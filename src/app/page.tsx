@@ -1,3 +1,5 @@
+import Link from "next/link";
+import { ROUTES } from "@/constants";
 import Header from "@/components/Header";
 import BlogOverview from "@/components/BlogOverview";
 import { getAllBlogposts } from "@/controllers/blogpostController";
@@ -16,12 +18,18 @@ export default function Home() {
           <div className="flex flex-wrap">
             {allBlogposts.map((blogpost) => {
               return (
-                <BlogOverview
+                <Link
                   key={blogpost.blog_id}
-                  title={blogpost.title}
-                  author={blogpost.author}
-                  cover_image={blogpost.cover_image}
-                />
+                  href={`${ROUTES.BLOGPOST}/${blogpost.slug}`}
+                  className="w-[50%] md:w-[33.33%] xl:w-[25%] p-1"
+                >
+                  <BlogOverview
+                    key={blogpost.blog_id}
+                    title={blogpost.title}
+                    author={blogpost.author}
+                    cover_image={blogpost.cover_image}
+                  />
+                </Link>
               );
             })}
           </div>

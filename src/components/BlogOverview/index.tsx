@@ -1,5 +1,5 @@
-import Image from "next/image";
 import React from "react";
+import Image from "next/image";
 
 function BlogOverview({
   title,
@@ -12,7 +12,7 @@ function BlogOverview({
 }) {
   const image_url = cover_image === "" ? "placeholder.svg" : cover_image;
   return (
-    <div className="border border-gray-500 border-dashed w-[50%] md:w-[33.33%] xl:w-[25%] p-2">
+    <div className="shadow-md p-4 min-h-56 rounded-lg bg-white">
       <Image src={image_url} alt={title} width={200} height={100} />
       <div className="text-lg">{title}</div>
       <div className="text-base">by: {author}</div>
