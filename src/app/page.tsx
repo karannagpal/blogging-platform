@@ -13,7 +13,7 @@ export default function Home() {
         <section>about the web site</section>
         <section>
           <div className="text-sm"> a grid of most recent blogs come here</div>
-          <div className="flex gap-2">
+          <div className="flex flex-wrap">
             {allBlogposts.map((blogpost) => {
               return (
                 <BlogOverview
