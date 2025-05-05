@@ -1,47 +1,142 @@
 [
   {
+    "blog_id": "b00",
+    "title": "Pilot",
+    "slug": "the-pilot-blogpost",
+    "author": "Karan Nagpal",
+    "date_published": "2024-12-10",
+    "cover_image": "https://images.unsplash.com/photo-1550772037-db205d27cbd0?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "blog_content": "",
+    "tags": ["core"]
+  },
+  {
     "blog_id": "b01",
     "title": "Whats in my travel bag",
-    "slug": "whats-in-bag",
+    "slug": "whats-in-my-travel-bag",
     "author": "Karan Nagpal",
-    "date_published": "2024-12-15 14:38",
-    "cover_image": "",
-    "blog_content": ""
+    "date_published": "2024-12-20",
+    "cover_image": "https://images.unsplash.com/photo-1476905778601-2e68ba72d354?q=80&w=3582&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "blog_content": "",
+    "tags": ["ktj"]
   },
   {
     "blog_id": "b02",
     "title": "Easy one pot recipes",
-    "slug": "easy-one-pot",
+    "slug": "easy-one-pot-recipes",
     "author": "Karan Nagpal",
-    "date_published": "2024-12-31 15:54",
-    "cover_image": "",
-    "blog_content": ""
+    "date_published": "2024-12-30",
+    "cover_image": "https://images.unsplash.com/photo-1556909172-8c2f041fca1e?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "blog_content": "",
+    "tags": ["kkk"]
   },
   {
     "blog_id": "b03",
     "title": "Taking better photos with your phone",
     "slug": "taking-better-photos",
     "author": "Karan Nagpal",
-    "date_published": "2025-01-15 12:31",
+    "date_published": "2025-01-10",
     "cover_image": "",
-    "blog_content": ""
+    "blog_content": "",
+    "tags": ["kkk"]
   },
   {
     "blog_id": "b04",
     "title": "My Camera Review",
     "slug": "my-camera-review",
     "author": "Karan Nagpal",
-    "date_published": "2024-01-31 15:54",
+    "date_published": "2024-01-20",
     "cover_image": "",
-    "blog_content": ""
+    "blog_content": "",
+    "tags": ["lnl"]
   },
   {
     "blog_id": "b05",
     "title": "What is composition",
     "slug": "what-is-composition",
     "author": "Karan Nagpal",
-    "date_published": "2025-02-15 12:31",
+    "date_published": "2025-02-30",
     "cover_image": "",
-    "blog_content": ""
+    "blog_content": "",
+    "tags": ["lnl"]
+  },
+  {
+    "blog_id": "b06",
+    "title": "Kitchen Cleaning 101",
+    "slug": "kitchen-cleaning-one-o-one",
+    "author": "Karan Nagpal",
+    "date_published": "2025-02-10",
+    "cover_image": "",
+    "blog_content": "",
+    "tags": ["kkk"]
+  },
+  {
+    "blog_id": "b07",
+    "title": "How is ReactJS blazingly fast",
+    "slug": "how-is-reactjs-blazingly-fast",
+    "author": "Karan Nagpal",
+    "date_published": "2025-02-20",
+    "cover_image": "",
+    "blog_content": "",
+    "tags": ["ktj"]
+  },
+  {
+    "blog_id": "b08",
+    "title": "3 ways of boil eggs",
+    "slug": "three-ways-to-boil-eggs",
+    "author": "Karan Nagpal",
+    "date_published": "2025-02-29",
+    "cover_image": "",
+    "blog_content": "",
+    "tags": ["kkk"]
+  },
+  {
+    "blog_id": "b09",
+    "title": "My daily coding environment",
+    "slug": "my-daily-coding-environment",
+    "author": "Karan Nagpal",
+    "date_published": "2025-03-10",
+    "cover_image": "",
+    "blog_content": "",
+    "tags": ["ktj"]
+  },
+  {
+    "blog_id": "b10",
+    "title": "My experience with Film photography",
+    "slug": "my-experience-with-film-photography",
+    "author": "Karan Nagpal",
+    "date_published": "2025-03-20",
+    "cover_image": "",
+    "blog_content": "",
+    "tags": ["lnl"]
+  },
+  {
+    "blog_id": "b11",
+    "title": "Omelette: Go break some eggs",
+    "slug": "omelette-go-break-some-eggs",
+    "author": "Karan Nagpal",
+    "date_published": "2025-03-30",
+    "cover_image": "",
+    "blog_content": "",
+    "tags": ["kkk"]
+  },
+  {
+    "blog_id": "b12",
+    "title": "What is Unix time",
+    "slug": "what-is-unix-time",
+    "author": "Karan Nagpal",
+    "date_published": "2025-04-10",
+    "cover_image": "",
+    "blog_content": "",
+    "tags": ["ktj"]
+  },
+  {
+    "blog_id": "b13",
+    "title": "Recording videos, slow and fast",
+    "slug": "recording-videos-slow-and-fasr",
+    "author": "Karan Nagpal",
+    "date_published": "2025-04-20",
+    "cover_image": "",
+    "blog_content": "",
+    "tags": ["lnl"]
   }
 ]
