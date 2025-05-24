@@ -21,7 +21,7 @@ export default function Home() {
                 <Link
                   key={blogpost.blog_id}
                   href={`${ROUTES.BLOGPOST}/${blogpost.slug}`}
-                  className="w-[50%] md:w-[33.33%] xl:w-[25%] p-1"
+                  className="w-[50%] md:w-[33.33%] xl:w-[25%] p-2"
                 >
                   <BlogOverview
                     key={blogpost.blog_id}
