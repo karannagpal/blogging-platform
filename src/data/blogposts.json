@@ -35,7 +35,7 @@
     "slug": "taking-better-photos",
     "author": "Karan Nagpal",
     "date_published": "2025-01-10",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1547440905-176d59a7aa3a?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "blog_content": "",
     "tags": ["kkk"]
   },
@@ -45,7 +45,7 @@
     "slug": "my-camera-review",
     "author": "Karan Nagpal",
     "date_published": "2024-01-20",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1686367596798-c098febb5f4e?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "blog_content": "",
     "tags": ["lnl"]
   },
@@ -55,7 +55,7 @@
     "slug": "what-is-composition",
     "author": "Karan Nagpal",
     "date_published": "2025-02-30",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1511195448930-75ffebe8e3a8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29tcG9zaXRpb258ZW58MHwwfDB8fHww",
     "blog_content": "",
     "tags": ["lnl"]
   },
@@ -65,7 +65,7 @@
     "slug": "kitchen-cleaning-one-o-one",
     "author": "Karan Nagpal",
     "date_published": "2025-02-10",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "blog_content": "",
     "tags": ["kkk"]
   },
@@ -75,7 +75,7 @@
     "slug": "how-is-reactjs-blazingly-fast",
     "author": "Karan Nagpal",
     "date_published": "2025-02-20",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1707083639439-f0aba3ef545b?q=80&w=3462&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "blog_content": "",
     "tags": ["ktj"]
   },
@@ -85,7 +85,7 @@
     "slug": "three-ways-to-boil-eggs",
     "author": "Karan Nagpal",
     "date_published": "2025-02-29",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1586276424667-06c0b45b90ba?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9pbGVkJTIwZWdnc3xlbnwwfDB8MHx8fDA%3D",
     "blog_content": "",
     "tags": ["kkk"]
   },
@@ -95,7 +95,7 @@
     "slug": "my-daily-coding-environment",
     "author": "Karan Nagpal",
     "date_published": "2025-03-10",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1603943761979-879c839ac8e6?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "blog_content": "",
     "tags": ["ktj"]
   },
@@ -105,7 +105,7 @@
     "slug": "my-experience-with-film-photography",
     "author": "Karan Nagpal",
     "date_published": "2025-03-20",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1637408982203-2eb65bd6aa22?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZpbG0lMjBjYW1lcmElMjBmaWxtfGVufDB8MHwwfHx8MA%3D%3D",
     "blog_content": "",
     "tags": ["lnl"]
   },
@@ -115,7 +115,7 @@
     "slug": "omelette-go-break-some-eggs",
     "author": "Karan Nagpal",
     "date_published": "2025-03-30",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1494597706938-de2cd7341979?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8b21lbGV0dGV8ZW58MHwwfDB8fHww",
     "blog_content": "",
     "tags": ["kkk"]
   },
@@ -125,17 +125,17 @@
     "slug": "what-is-unix-time",
     "author": "Karan Nagpal",
     "date_published": "2025-04-10",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1504197832061-98356e3dcdcf?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "blog_content": "",
     "tags": ["ktj"]
   },
   {
     "blog_id": "b13",
     "title": "Recording videos, slow and fast",
-    "slug": "recording-videos-slow-and-fasr",
+    "slug": "recording-videos-slow-and-fast",
     "author": "Karan Nagpal",
     "date_published": "2025-04-20",
-    "cover_image": "",
+    "cover_image": "https://images.unsplash.com/photo-1631024951539-2e18e3884d59?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNsb3clMjBzaHV0dGVyfGVufDB8MHwwfHx8MA%3D%3D",
     "blog_content": "",
     "tags": ["lnl"]
   }
