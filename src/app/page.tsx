@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ROUTES } from "@/constants";
 import Header from "@/components/Header";
-import BlogOverview from "@/components/BlogOverview";
+import BlogOverviewCard from "@/components/BlogOverviewCard";
 import { getAllBlogposts } from "@/controllers/blogpostController";
 
 export default function Home() {
@@ -14,7 +14,6 @@ export default function Home() {
         <Header />
         <section>about the web site</section>
         <section>
-          <div className="text-sm"> a grid of most recent blogs come here</div>
           <div className="flex flex-wrap">
             {allBlogposts.map((blogpost) => {
               return (
@@ -23,7 +22,7 @@ export default function Home() {
                   href={`${ROUTES.BLOGPOST}/${blogpost.slug}`}
                   className="w-[50%] md:w-[33.33%] xl:w-[25%] p-2"
                 >
-                  <BlogOverview
+                  <BlogOverviewCard
                     key={blogpost.blog_id}
                     title={blogpost.title}
                     author={blogpost.author}
